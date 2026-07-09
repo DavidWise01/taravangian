@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1183
+slug  : taravangian
+seal  : fc2c680eebaff6f350d7018eba49f8bbc169006b671348d6673c0f81ddb6c2c9
+prev  : 44ae1f5d071ed84146caebddb8c35fcc993be5a3ced455e3b4b837bfc6bc6213
+link  : 113e4b729f5ce983a1ef89610488c477943d1edb1d2ed1193dca6c8654242fc8
+head  : 5ee44e678784d36d18e8ad3dbed0aaee929bd08cc1806df113561bbdeb736087
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
